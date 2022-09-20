@@ -1,0 +1,16 @@
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.exe
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.deps.json
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.runtimeconfig.json
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.runtimeconfig.dev.json
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.dll
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\ref\CarsAndLetter.dll
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\bin\Debug\net5.0\CarsAndLetter.pdb
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.csprojAssemblyReference.cache
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.AssemblyInfoInputs.cache
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.AssemblyInfo.cs
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.csproj.CoreCompileInputs.cache
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.dll
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\ref\CarsAndLetter.dll
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.pdb
+C:\Users\vbadi\RiderProjects\CarsAndLetter\CarsAndLetter\obj\Debug\net5.0\CarsAndLetter.genruntimeconfig.cache
